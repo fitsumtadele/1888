@@ -13,7 +13,7 @@ export default class Api extends Component{
             console.log(response.data.name);
         }
             )
-            axios.post("/users").then
+
     }
     render () {
         return (
